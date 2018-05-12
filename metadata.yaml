@@ -1,0 +1,32 @@
+_repo: De-Turkey-and-De-Law--13-A-Comedy-in-Three-Acts_22146
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hurston, Zora Neale
+    birthdate: 1891
+    deathdate: 1960
+    gutenberg_agent_id: '6368'
+    url: http://www.gutenberg.org/2009/agents/6368
+    wikipedia: http://en.wikipedia.org/wiki/Zora_Neale_Hurston
+description: This is an electronic edition of the complete book complemented by author
+  biography. This book features a table of contents linked to every chapter. The book
+  was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
+  readers. It is formatted to display on all electronic devices including the Kindle,
+  Smartphones and other Mobile Devices with a small display.
+gutenberg_issued: '2007-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American drama'
+- !lcsh 'African Americans -- Drama'
+title: "De Turkey and De Law\r\nA Comedy in Three Acts"
+url: http://www.gutenberg.org/ebooks/22146
